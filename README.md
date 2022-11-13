@@ -43,3 +43,5 @@ Código desenvolvido com a função que informa o valor do produto após inserir
 
 
 ### Exercício Questão 3
+
+Não desenvolvido.
