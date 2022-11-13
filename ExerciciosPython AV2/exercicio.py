@@ -27,11 +27,3 @@ soma_imposto(taxa,custo)
 
 #Questão 3
 
-def conversao(taxa_imposto,custo):
-    
-    print(f'O valor do produto é R$ {precoProduto}')
-
-
-def saida(taxa_imposto,custo):
-    
-    print(f'O valor do produto é R$ {precoProduto}')
